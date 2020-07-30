@@ -1,5 +1,3 @@
-### Hi, I'm Leevi Kopakkala, CEO at jyDev Oy
-
 <img src="https://github.com/LeeviKopakkala/LeeviKopakkala/blob/master/github.png">
 
 <!--
