@@ -1,6 +1,6 @@
 ### Hi, I'm Leevi Kopakkala, CEO at jyDev Oy
 
-
+<img src="./github.png">
 
 <!--
 **LeeviKopakkala/LeeviKopakkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
