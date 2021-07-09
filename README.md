@@ -1,4 +1,4 @@
-<img src="https://github.com/LeeviKopakkala/LeeviKopakkala/blob/master/github.png">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGO9D4m9LgDzA/profile-displaybackgroundimage-shrink_350_1400/0/1624879447917?e=1631145600&v=beta&t=T4EEEI25iBFbRjHvvMPVEVI4PW-ofIeMEDyeyDE1GLY">
 
 <!--
 **LeeviKopakkala/LeeviKopakkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
